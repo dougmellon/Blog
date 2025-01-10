@@ -10,7 +10,7 @@ disclaimer:
 
 <img src="/images/kitty.jpg" alt="" class="myphoto" />
 
-I'm {{ siteConfig.author.name }}.
+I'm Doug Mellon.
 
 **{{ siteConfig.site.title }}** is my blog.
 
