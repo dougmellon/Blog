@@ -6,14 +6,12 @@ eleventyNavigation:
   order: 1
 ---
 
-<img src="/images/kitty.jpg" alt="" class="myphoto" />
+<img src="/images/doug.jpg" alt="" class="myphoto" />
 
-I'm Doug Mellon.
+<h2 id='doug-mellon'>Douglas Mellon</h2>
 
-**{{ siteConfig.site.title }}** is my blog.
+I'm a software engineer based in Boulder, Colorado, and I currently build financial modeling and data infrastructure at HCG Funds, a specialty finance manager in private credit with offices in Raleigh, North Carolina, and Geneva, Switzerland.
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+Prior to that, I studied software engineering at the University of Northern Colorado, where I also conducted university-funded research on the use of real-time data transmission for drones in wildfire monitoring.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
-
-Image credit: [Orange Tabby Cat on Brown Knitted Textile by Alena Koval](https://www.pexels.com/photo/orange-tabby-cat-on-brown-knitted-textile-982300/)
+When I'm not sitting in front of my laptop, you'll find me backcountry skiing or biking in the Rocky Mountains, or sailing on one of Colorado's many lakes with my wife, Anna, and our husky, Juneau. We also enjoy traveling (a lot) and have been fortunate enough to have visited somewhere between 25 and 30 countries so far. Next on our list are South America and Scandinavia—if you have any suggestions, I'd love to hear them! I'm always open to meeting new people, and you can email me at d(at)dougmellon.com.
