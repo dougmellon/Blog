@@ -1,12 +1,8 @@
 ---
-title: Sample page with custom permalink
-description: All posts published since the start of of the blog back in 2020.
-customPermalink: /custom-permalink/
+title: Bookshelf
+description: A list of books I've read and remembered to add
+customPermalink: /bookshelf/
 eleventyNavigation:
-  key: Custom permalink page
+  key: Bookshelf
   order: 4
 ---
-
-This is a sample page with a custom permalink and different title shown in menus.
-
-Normally, post and page permalinks are derived from page titles. But in certain situations it makes sense to override that. With `customPermalink` property in front matter data it's possible. :)
